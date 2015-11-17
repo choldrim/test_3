@@ -1,0 +1,3 @@
+[submodule "openQA"]
+	path = openQA
+	url = git@github.com:choldrim/test_1.git
